@@ -37,11 +37,9 @@ I will also make sure the QMD is runnable directly from this repository using on
 
 `zhanxinwang_activity15_repo/`
 
-1. Activity14.pdf  
-2. Activity14_revised.pdf  
-3. Activity14_revised.qmd  
-4. README.md  
-5. PLAN.md
+1. Activity14.pdf   
+2. Activity14.qmd 
+3. README.md  
 
 `dev` branch is used for revisions, pull requests, and development.
 
